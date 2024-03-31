@@ -16,7 +16,7 @@
   <p align="center">
     Peilin Yu, Aida Nordman, Marta Koc-Januchta, Konrad Schönborn, Lonni Besançon, Katerina Vrotsou
     <br/><br/>
-    <a href="https://github.com/github_username/repo_name">Demo Video</a>
+    Demo Video
     ·
     Paper
     ·
@@ -40,7 +40,7 @@ To address these gaps, we develop a visual analytics approach for analyzing inte
 The approach utilizes algorithmic methods to identify similarities in users' interactions and reveal their exploration strategies.
 We motivate and illustrate our approach through an application scenario, using event sequences derived from interaction log data in an experimental study conducted with science center visitors from diverse backgrounds and demographics.
 The study involves 14 users completing tasks of increasing complexity, designed to stimulate different levels of cognitive learning processes.
-We implement our approach in an interactive visual analytics prototype system, named VISID, and together with domain experts, discover a set of task-solving exploration strategies, such as ÄcascadingÄ and Änested-loopÄ, which reflect different levels of learning processes from Bloom's taxonomy. 
+We implement our approach in an interactive visual analytics prototype system, named VISID, and together with domain experts, discover a set of task-solving exploration strategies, such as "cascading" and "nested-loop", which reflect different levels of learning processes from Bloom's taxonomy. 
 Finally, we discuss the generalizability and scalability of the presented system and the need for further research with data acquired in the wild.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
