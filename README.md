@@ -82,7 +82,7 @@ THIS CODE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IM
 ## Contact 
 <a name="contact"></a>
 
-Peilin - peilin(dot)yu(at)liu(dot)se
+Peilin - peilin (dot) yu (at) liu (dot) se
 
 Project Link: [https://github.com/hipeilin/VISID](https://github.com/hipeilin/VISID)
 
