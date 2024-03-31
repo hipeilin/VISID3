@@ -14,7 +14,7 @@
 <h3 align="center">Revealing Interaction Dynamics: Multi-Level Visual Exploration of <br/> User Strategies with an Interactive Digital Environment</h3>
 
   <p align="center">
-    Peilin Yu, Aida Nordman, Marta Koc-Januchta, Konrad Schönborn, Lonni BesanÇon, Katerina Vrotsou
+    Peilin Yu, Aida Nordman, Marta Koc-Januchta, Konrad Schönborn, Lonni Besançon, Katerina Vrotsou
     <br/><br/>
     <a href="https://github.com/github_username/repo_name">Demo Video</a>
     ·
