@@ -108,7 +108,7 @@ Project Link: (not public yet)
 [css-shield]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [css-url]: https://css3.com
 
-[teaser]: images/teaser.pdf
+[teaser]: images/teaser.png
 
 [visual-studio-code-shield]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 [visual-studio-code-url]: https://code.visualstudio.com
