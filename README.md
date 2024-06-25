@@ -27,6 +27,8 @@ A D3 implementation can be found here:
 
 ## About The Project
 
+[![Teaser][teaser]]()
+
 We present a visual analytics approach for multi-level visual exploration of users’ interaction strategies in an interactive digital environment.
 The use of interactive touchscreen exhibits in informal learning environments, such as museums and science centers, often incorporate frameworks that classify learning processes, such as Bloom’s taxonomy, to achieve better user engagement and knowledge transfer.
 To analyze user behavior within these digital environments, interaction logs are recorded to capture diverse exploration strategies.
@@ -105,6 +107,8 @@ Project Link: (not public yet)
 
 [css-shield]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [css-url]: https://css3.com
+
+[teaser]: images/teaser.pdf
 
 [visual-studio-code-shield]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 [visual-studio-code-url]: https://code.visualstudio.com
