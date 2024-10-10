@@ -18,7 +18,7 @@ A D3 implementation based on this prototype can be found [here](https://hipeilin
     <br/><br/>
     Demo Video
     ·
-    Paper
+    <a href="https://10.1109/TVCG.2024.3456187">Publication</a>
     ·
     <a href="#contact">Contact</a>
   </p>
