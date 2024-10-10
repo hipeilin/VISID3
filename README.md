@@ -20,6 +20,8 @@ A D3 implementation based on this prototype can be found [here](https://hipeilin
     ·
     <a href="https://10.1109/TVCG.2024.3456187">Publication</a>
     ·
+    <a href="https://doi.org/10.31219/osf.io/4yc8s">PostPrint</a>
+    ·
     <a href="#contact">Contact</a>
   </p>
 </div>
