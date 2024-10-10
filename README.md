@@ -80,9 +80,7 @@ THIS CODE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IM
 
 <a name="contact"></a>
 
-Peilin - peilin (dot) yu (at) liu (dot) se
-
-Project Link: (not public yet)
+Peilin - peilin (dot) yu @ liu (dot) se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
